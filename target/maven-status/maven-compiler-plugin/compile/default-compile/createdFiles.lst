@@ -1,0 +1,8 @@
+com\example\tareas\service\TareaService.class
+com\example\tareas\repository\TareaRepository.class
+com\example\tareas\controller\TareaController.class
+com\example\tareas\domain\model\EstadoTarea.class
+com\example\tareas\domain\TareaNotFoundException.class
+com\example\tareas\domain\model\Tarea.class
+com\example\tareas\TareasApplication.class
+com\example\tareas\controller\GlobalExceptionHandler.class
